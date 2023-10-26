@@ -3,11 +3,17 @@ import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
 import Carousel from "./components/Carousel.jsx";
+// import Ref from "./components/Ref.jsx";
+// import State from "./components/State.jsx";
+// import Effect from "./components/Effect.jsx";
 
 export default function App() {
 	return (
 		<div>
 			<Carousel />
+			{/* <Ref /> */}
+			{/* <State />
+			<Effect /> */}
 		</div>
 	);
 }

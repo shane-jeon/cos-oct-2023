@@ -14,3 +14,5 @@ This application emulates the carousel displayed on the Consequence events page.
 ## Challenges
 
 I have been tackling this assessment from various angles for the last year and a half. With each attempt, I have gotten closer to the ultimate goal, however the end result has never been reliable. At the very least, I have learned much from this project. See MVP.txt for more details.
+
+Last updated 10.25.2023
